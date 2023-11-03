@@ -9,7 +9,7 @@
 <p>- 😁🎓 Bachelor of Computer Sceience</p
 <p>- ✏️ 🇺🇸 🇯🇵 🇹🇭  </p>
 <p>- 🖥️ Coding in Linux Xubuntu</p>
-<p>- ⚡ Doing programing exercises on codewar <img src="https://www.codewars.com/users/willard-wrt/badges/micro"></p
+<p>- ⚡ Doing programing exercises on codewar <img src="https://www.codewars.com/users/willard-wrt/badges/small"></p
 
 <!--
 **willard-wrt/willard-wrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
