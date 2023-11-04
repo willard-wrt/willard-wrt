@@ -6,7 +6,7 @@
 <p>- 😁🎓 Bachelor of Computer Sceience</p
 <p>- ✏️ 🇺🇸 🇯🇵 🇹🇭  </p>
 <p>- 🖥️ Coding in Linux Xubuntu</p>
-<p>- ⚡ Doing programing exercises on codewar  </p> <img src="https://www.codewars.com/users/willard-wrt/badges/small">
+<p>- ⚡ Doing programing exercises on codewars  </p> <a href="https://www.codewars.com" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/willard-wrt/badges/small">  </a>
 
 
 <h3 align="left">Languages and Tools:</h3>
